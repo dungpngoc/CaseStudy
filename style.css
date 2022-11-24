@@ -1,0 +1,9 @@
+th,td{
+    text-align: center;padding:5px
+}
+h1 {
+    background-color: #79b8f5;margin: 0;
+}
+table,td,th {
+    border: 1px solid cornflowerblue; border-collapse: collapse
+}
